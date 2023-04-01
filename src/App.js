@@ -1,9 +1,9 @@
-import Cards from './components/cards/Cards';
+import Cards from "./components/cards/Cards";
 function App() {
   return (
     <div className="App">
       <h1>Memory Game - React</h1>
-      <Cards/>
+      <Cards />
       {/* <div className="container"></div> */}
     </div>
   );
